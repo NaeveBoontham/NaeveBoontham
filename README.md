@@ -17,7 +17,7 @@ Bachelor of Engineering Major in Electrical Engineering | 2019-2023
 ## Projects 📈
 I created this as a personal project to get practice and pick up new abilities. I tried fusing my passion for data analysis and machine learning with my love of sports and movies. Bringing your passions and interests into your work never fails to make you feel wonderful.  
 
-**you can view my projects here --->** [Project](https://github.com/NaeveBoontham/project)
+## [Click here to view projects](https://github.com/NaeveBoontham/project)
 
 <!--
 **NaeveBoontham/NaeveBoontham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
