@@ -1,4 +1,4 @@
-# 👋 Naeve Boontham  
+# Hi 👋 Naeve Boontham  
 **Data Analyst / BI Developer**
 
 - 🎓 **Education**: B.Eng. in Electrical Engineering, King Mongkut’s University of Technology Thonburi  
