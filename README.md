@@ -13,4 +13,4 @@
 
 During my work as a data analyst, I often encounter user requirements that Power BI’s default features don’t fully support. These Power BI projects address real user needs that can’t be met with default settings alone. By creatively using DAX and advanced techniques, they show how to extend Power BI’s capabilities to solve unique challenges—turning those challenges into opportunities to push Power BI beyond its limits.
 
-[Link Text](https://example.com)
+[Link Text]([https://example.com](https://github.com/NaeveBoontham/Power-BI))
