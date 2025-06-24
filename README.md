@@ -17,6 +17,6 @@ During my work as a data analyst, I often encounter user requirements that Power
 
 ---
 
-Also, here are some personal projects like a movie recommendation system, LeBron James point record dashboard, and others.
+Also, here are some personal projects like a **movie recommendation system**, **LeBron James scoring record**, and others.
 
-Feel free to check them out: [github.com/NaeveBoontham](https://github.com/NaeveBoontham)
+Feel free to check them out: [Click to see my project](https://github.com/NaeveBoontham/project)
