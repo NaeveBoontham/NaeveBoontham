@@ -17,6 +17,9 @@ During my work as a data analyst, I often encounter user requirements that Power
 
 ---
 
-Also, here are some personal projects like a **movie recommendation system**, **LeBron James scoring record**, and others.
+Also, here are some personal projects
+ - **movie recommendation system**
+ - **LeBron James scoring record**
+ - **Others**
 
 Feel free to check them out: [Click to see my project](https://github.com/NaeveBoontham/project)
