@@ -17,7 +17,7 @@ During my work as a data analyst, I often encounter user requirements that Power
 
 ---
 
-Also, here are some personal projects
+Also, here are some of my personal projects
  - **movie recommendation system**
  - **LeBron James scoring record**
  - **Others**
