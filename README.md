@@ -8,6 +8,7 @@
   - **Power BI External Tools**: DAX Studio, Measure Killer, Tabular Editor
   - **Excel**: Power Query, PivotTables, Formulas
   - **Python**: Pandas, NumPy, Matplotlib, Seaborn
+  - **Math**: Calculus, Statistic
 
 ---
 
